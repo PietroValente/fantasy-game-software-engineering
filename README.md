@@ -19,4 +19,10 @@ The program simulates the arrangement of the pieces on the game grid and its tas
 For full assignment details, refer to the Assignment.pdf file. The language used for the explanation of the code and for the documents is Italian.
 
 ## RASD
+
 The _Requirement Analysis and Specification Document_ (RASD) aims at illustrating a overview of the project, providing a baseline for its planning and development. It guides the reader in understanding **functional requirements**, **non functional requirements**, **constraints** and **system architecture**.
+
+## Compile and run
+Compile all the files in the Sources folder:
+
+    javac *.java
