@@ -26,3 +26,7 @@ The _Requirement Analysis and Specification Document_ (RASD) aims at illustratin
 Compile all the files in the Sources folder:
 
     javac *.java
+    
+Run the main file:
+
+    java Main.java
