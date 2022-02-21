@@ -29,4 +29,4 @@ Compile all the files in the Sources folder:
     
 Run the main file:
 
-    java Main.java
+    java Main
